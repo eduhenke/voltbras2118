@@ -3,10 +3,17 @@
 
 
 
+## Baixando o repositório
+
+- `git clone https://github.com/ronaldomribeiro1/voltbras2118.git`
+
+
+
 ## Dependências
 
 - Instale o prisma `npm install -g prisma`
 - instale o [docker](https://www.docker.com/products/container-runtime)
+- instale o [Docker Compose](https://docs.docker.com/compose/install/)
 - Use o comando `npm install` para instalar as dependências do projeto
 
 
