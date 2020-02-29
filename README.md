@@ -28,7 +28,7 @@
 
 ## Iniciando o servidor
 
-- Use o comando `sudo docker-compose up -d`
+- Use o comando `docker-compose up -d`
 
 
 
